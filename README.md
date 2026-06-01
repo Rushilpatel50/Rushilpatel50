@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="NKu6qRPAYO2Dezv862jEszQvlp7NwtgLjmvCZLuKB4k" />
 <!-- Banner / Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d4ff&height=120&section=header&text=Rushil%20Patel&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
