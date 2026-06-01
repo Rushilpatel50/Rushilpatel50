@@ -74,7 +74,7 @@ building hands-on expertise through home lab projects and CTF challenges.
 - Manual SQLi, Reflected & Stored XSS, auth bypass, session hijacking
 - Full attack chain: Stored XSS → cookie theft → session hijack → SQLi → DB dump
 - Tools: Burp Suite · SQLMap · Hydra · OWASP ZAP · Nmap
-- **CVSS scores, OWASP mapping, 79 screenshots, 15-page report**
+- **CVSS scores, OWASP mapping, 50+ screenshots, 15-page report**
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rushilpatel50/web-app-penetration-testing-lab)
 
@@ -86,7 +86,7 @@ building hands-on expertise through home lab projects and CTF challenges.
 - Designed and deployed segmented enterprise network with DMZ architecture
 - Suricata detected Nmap, SQLMap, Nikto via Emerging Threats signatures
 - Captured PCAP evidence · Validated network isolation · Security report
-- **50+ screenshots across 10 phases + Wireshark packet captures**
+- **70+ screenshots across 10 phases + Wireshark packet captures**
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rushilpatel50/enterprise-network-security-lab)
 
