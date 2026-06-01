@@ -94,25 +94,31 @@ building hands-on expertise through home lab projects and CTF challenges.
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rushilpatel50&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c8d8e8" height="165"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rushilpatel50&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=c8d8e8&dates=5a7a9a" height="165"/>
+![Rushil's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rushilpatel50&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c8d8e8&rank_icon=github)
 
 </div>
 
 <div align="center">
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rushilpatel50&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c8d8e8&langs_count=6"/>
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Rushilpatel50&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=c8d8e8&dates=5a7a9a&currStreakNum=ffffff&sideNums=ffffff)
 
 </div>
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Rushilpatel50&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6"/>
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rushilpatel50&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c8d8e8&langs_count=6)
+
+</div>
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=Rushilpatel50&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)
 
 </div>
 
