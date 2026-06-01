@@ -114,14 +114,16 @@ building hands-on expertise through home lab projects and CTF challenges.
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=Rushilpatel50&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rushilpatel50&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ff6b35&area=true&area_color=00d4ff)
 
 </div>
 
 <div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rushilpatel50&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ff6b35)
-
+  <img src="https://img.shields.io/badge/Total%20Commits-25-00d4ff?style=for-the-badge&logo=github&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Repositories-2-ff6b35?style=for-the-badge&logo=github&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Stars%20Earned-2-ffd700?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
 ---
