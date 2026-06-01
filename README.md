@@ -91,12 +91,12 @@ building hands-on expertise through home lab projects and CTF challenges.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rushilpatel50&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rushilpatel50&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rushilpatel50&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rushilpatel50&theme=dark&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushilpatel50&layout=compact&theme=github_dark&hide_border=true&langs_count=6"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rushilpatel50&layout=compact&theme=github_dark&hide_border=true&langs_count=6"/>
 </p>
 
 ---
