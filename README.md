@@ -3,6 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d4ff&height=120&section=header&text=Rushil%20Patel&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rushilpatel50&label=Profile%20Views&color=00d4ff&style=for-the-badge"/>
+</p>
+
 <h2 align="center">🔐 Cybersecurity Student · Penetration Tester · Network Security Enthusiast</h2>
 
 <p align="center">
@@ -88,16 +92,29 @@ building hands-on expertise through home lab projects and CTF challenges.
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rushilpatel50&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rushilpatel50&theme=dark&hide_border=true" height="150"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rushilpatel50&layout=compact&theme=github_dark&hide_border=true&langs_count=6"/>
-</p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rushilpatel50&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c8d8e8" height="165"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rushilpatel50&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=c8d8e8&dates=5a7a9a" height="165"/>
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rushilpatel50&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c8d8e8&langs_count=6"/>
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Rushilpatel50&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6"/>
+
+</div>
 
 ---
 
