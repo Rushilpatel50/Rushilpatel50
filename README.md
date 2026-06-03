@@ -130,7 +130,7 @@ building hands-on expertise through home lab projects and CTF challenges.
 
 ## 🎯 Currently Learning
 
-- [ ] Setting up Splunk/ELK SIEM in home lab
+- [ ] Setting up Splunk/ELK/Wazuh SIEM in home lab
 - [ ] TryHackMe — SOC Level 1 path
 - [x] Web application penetration testing (DVWA)
 - [x] Enterprise network segmentation & IDS/IPS
