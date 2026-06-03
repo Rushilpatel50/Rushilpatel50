@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=Rushilpatel50&label=Profile%20Views&color=00d4ff&style=for-the-badge"/>
 </p>
 
-<h2 align="center">🔐 Cybersecurity Student · Penetration Tester · Network Security Enthusiast</h2>
+<h2 align="center">🔐 Cybersecurity Student · Penetration Tester · Network Security Engineer</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rushil-patel-998669402/">
@@ -24,9 +24,9 @@
 I'm a cybersecurity student focused on **offensive security** and **network defense**,
 building hands-on expertise through home lab projects and CTF challenges.
 
-- 🔭 Currently building: **SOC home lab with Splunk/ELK integration**
+- 🔭 Currently building: **SOC home lab with Wazuh integration**
 - 🛡️ Focus: Web Application Pentesting · Network Security · IDS/IPS
-- 🎯 Goal: SOC Analyst / Junior Penetration Tester role
+- 🎯 Goal: SOC Analyst / Junior Penetration Tester role / System Administrator / Network Security Engineer
 - 📚 Studying: CompTIA Security+ | eJPT / CEH path | RHSCA EX200 
 - 🌍 Based in: Gujarat, India
 
