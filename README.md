@@ -139,7 +139,7 @@ building hands-on expertise through home lab projects and CTF challenges.
 
 ## 📫 Contact
 
-- 💼 LinkedIn: [linkedin.com/in/rushil-patel-13a71a39b](https://www.linkedin.com/in/rushil-patel-13a71a39b/)
+- 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://www.linkedin.com/in/rushil-patel-cs/)
 - 📧 Email: rushilpatel0608@gmail.com
 - 🌐 Portfolio: Coming soon
 
