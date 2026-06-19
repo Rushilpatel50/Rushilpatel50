@@ -1,6 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Rushil+Patel;Cyber+Security+%26+Digital+Forensics+Student;Penetration+Testing+%7C+SIEM+%7C+Network+Security)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a3d4d,100:00bcd4&height=160&section=header&text=Rushil%20Patel&fontSize=42&fontColor=FFFFFF&fontAlignY=65&fontAlign=50" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00BCD4&center=true&vCenter=true&width=650&lines=Cyber+Security+%26+Digital+Forensics+Student;Penetration+Testing+%7C+SIEM+%7C+Network+Security;Seeking+SOC+%7C+VAPT+%7C+Sysadmin+Roles)](https://git.io/typing-svg)
 
 </div>
 
@@ -83,8 +85,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rushilpatel50&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rushilpatel50&theme=github-dark-blue&hide_border=true&background=0D1117" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rushilpatel50&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00BCD4&icon_color=00BCD4&text_color=FFFFFF" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rushilpatel50&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00BCD4&fire=00BCD4&currStreakLabel=00BCD4" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushilpatel50&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00BCD4&text_color=FFFFFF" width="40%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rushilpatel50&theme=github-compact&bg_color=0D1117&color=00BCD4&line=00BCD4&point=FF6B35&hide_border=true" width="95%"/>
 
 </div>
 
@@ -114,5 +120,9 @@
 ---
 
 <div align="center">
-  <sub>Int. B.Sc-M.Sc IT · Cyber Security & Digital Forensics · Monark University · Ahmedabad, India</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,50:0a3d4d,100:0D1117&height=100&section=footer" width="100%"/>
+
+<sub>Int. B.Sc-M.Sc IT · Cyber Security & Digital Forensics · Monark University · Ahmedabad, India</sub>
+
 </div>
