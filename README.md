@@ -110,7 +110,7 @@
 <a href="https://linkedin.com/in/rushil-patel-cs">
   <img src="https://img.shields.io/badge/LinkedIn-rushil--patel--cs-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:rushilpatel9595@gmail.com">
+<a href="mailto:rushilpatel0608@gmail.com">
   <img src="https://img.shields.io/badge/Email-rushilpatel9595@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/Rushilpatel50">
