@@ -15,56 +15,18 @@
 - 🛠️ Built lab environments with **Wazuh**, **OpenVAS**, **Burp Suite**, **Metasploit**, **Suricata**, and **pfSense**
 - 📖 Currently preparing for **RHCSA (EX200)** certification
 - 🎯 Seeking internship or entry-level role in **SOC Analysis**, **VAPT**, or **System Administration**
-- 📫 Reach me at **rushilpatel9595@gmail.com**
+- 📫 Reach me at **rushilpatel0608@gmail.com**
 
 ---
 
 ### 🔧 Skills & Tools
 
-**Cyber Security**
-
-![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-CC0000?style=flat-square&logoColor=white)
-![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-CC0000?style=flat-square&logoColor=white)
-![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-CC0000?style=flat-square&logoColor=white)
-![Security Monitoring](https://img.shields.io/badge/Security_Monitoring-CC0000?style=flat-square&logoColor=white)
-![Incident Response](https://img.shields.io/badge/Incident_Response-CC0000?style=flat-square&logoColor=white)
-![Log Analysis](https://img.shields.io/badge/Log_Analysis-CC0000?style=flat-square&logoColor=white)
-![Network Security](https://img.shields.io/badge/Network_Security-CC0000?style=flat-square&logoColor=white)
-![Asset Management](https://img.shields.io/badge/Asset_Management-CC0000?style=flat-square&logoColor=white)
-
-**Security Tools**
-
-![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white)
-![OpenVAS](https://img.shields.io/badge/OpenVAS-00897B?style=flat-square&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-00427E?style=flat-square&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=flat-square&logo=owasp&logoColor=white)
-![Suricata](https://img.shields.io/badge/Suricata-EF7B2D?style=flat-square&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logoColor=white)
-![Autopsy](https://img.shields.io/badge/Autopsy-4B0082?style=flat-square&logoColor=white)
-![GLPI](https://img.shields.io/badge/GLPI-007FAD?style=flat-square&logoColor=white)
-
-**Platforms & Virtualization**
-
-![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windowsserver&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
-
-**Networking & System Administration**
-
-![TCP/IP](https://img.shields.io/badge/TCP/IP-00427E?style=flat-square&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS_Management-00427E?style=flat-square&logoColor=white)
-![DHCP](https://img.shields.io/badge/DHCP_Management-00427E?style=flat-square&logoColor=white)
-![VLANs](https://img.shields.io/badge/VLANs-00427E?style=flat-square&logoColor=white)
-![Routing & Switching](https://img.shields.io/badge/Routing_%26_Switching-00427E?style=flat-square&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=flat-square&logo=microsoftazure&logoColor=white)
-![Linux Admin](https://img.shields.io/badge/Linux_Administration-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows Admin](https://img.shields.io/badge/Windows_Administration-0078D6?style=flat-square&logo=windows&logoColor=white)
+| Category | Skills |
+|---|---|
+| **Cyber Security** | Penetration Testing · Vulnerability Assessment · Threat Intelligence · Security Monitoring · Incident Response · Log Analysis · Network Security · Asset Management |
+| **Security Tools** | Wazuh · OpenVAS · Wireshark · Nmap · Burp Suite · Metasploit · OWASP ZAP · Suricata · pfSense · Autopsy · GLPI |
+| **Platforms** | RHEL · Kali Linux · Ubuntu Server · Windows Server · VMware · VirtualBox |
+| **Networking & Admin** | TCP/IP · DNS · DHCP · VLANs · Routing & Switching · Active Directory · Linux Admin · Windows Admin |
 
 ---
 
@@ -88,7 +50,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Rushilpatel50&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00BCD4&icon_color=00BCD4&text_color=FFFFFF" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rushilpatel50&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00BCD4&fire=00BCD4&currStreakLabel=00BCD4" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushilpatel50&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00BCD4&text_color=FFFFFF" width="40%"/>
+
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rushilpatel50&theme=github-compact&bg_color=0D1117&color=00BCD4&line=00BCD4&point=FF6B35&hide_border=true" width="95%"/>
 
