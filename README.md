@@ -1,149 +1,118 @@
-<!-- Banner / Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d4ff&height=120&section=header&text=Rushil%20Patel&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rushilpatel50&label=Profile%20Views&color=00d4ff&style=for-the-badge"/>
-</p>
-
-<h2 align="center">🔐 Cybersecurity Student · Penetration Tester · Network Security Engineer</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rushil-patel-998669402/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Location-Gujarat%2C%20India-00d4ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Entry%20Level-39d353?style=for-the-badge"/>
-</p>
-
----
-
-## 👋 About Me
-
-I'm a cybersecurity student focused on **offensive security** and **network defense**,
-building hands-on expertise through home lab projects and CTF challenges.
-
-- 🔭 Currently building: **SOC home lab with Wazuh integration**
-- 🛡️ Focus: Web Application Pentesting · Network Security · IDS/IPS
-- 🎯 Goal: SOC Analyst / Junior Penetration Tester role / System Administrator / Network Security Engineer
-- 📚 Studying: CompTIA Security+ | eJPT / CEH path | RHSCA EX200 
-- 🌍 Based in: Gujarat, India
-
----
-
-## 🛠️ Skills & Tools
-
-**Offensive Security**
-
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004990?style=for-the-badge&logoColor=white)
-![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-1A1A2E?style=for-the-badge&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-
-**Network & Infrastructure**
-
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logoColor=white)
-![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-
-**Languages & Operating Systems**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Frameworks & Methodologies**
-
-![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![PTES](https://img.shields.io/badge/PTES-343434?style=for-the-badge&logoColor=white)
-![CVSS](https://img.shields.io/badge/CVSS%20v3.1-CC0000?style=for-the-badge&logoColor=white)
-![Kill Chain](https://img.shields.io/badge/Cyber%20Kill%20Chain-1A1A2E?style=for-the-badge&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🔴 Web Application Penetration Testing Lab
-> DVWA on Metasploitable 2 · 9 vulnerabilities found · Professional pentest report
-
-- Manual SQLi, Reflected & Stored XSS, auth bypass, session hijacking
-- Full attack chain: Stored XSS → cookie theft → session hijack → SQLi → DB dump
-- Tools: Burp Suite · SQLMap · Hydra · OWASP ZAP · Nmap
-- **CVSS scores, OWASP mapping, 50+ screenshots, 15-page report**
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rushilpatel50/web-app-penetration-testing-lab)
-
----
-
-### 🏢 Enterprise Network Security Lab
-> pfSense · 4-VLAN segmentation · Suricata IDS/IPS · Attack simulation
-
-- Designed and deployed segmented enterprise network with DMZ architecture
-- Suricata detected Nmap, SQLMap, Nikto via Emerging Threats signatures
-- Captured PCAP evidence · Validated network isolation · Security report
-- **70+ screenshots across 10 phases + Wireshark packet captures**
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rushilpatel50/enterprise-network-security-lab)
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-![Rushil's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rushilpatel50&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c8d8e8&rank_icon=github)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Rushil+Patel;Cyber+Security+%26+Digital+Forensics+Student;Penetration+Testing+%7C+SIEM+%7C+Network+Security)](https://git.io/typing-svg)
 
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Rushilpatel50&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=c8d8e8&dates=5a7a9a&currStreakNum=ffffff&sideNums=ffffff)
-
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rushilpatel50&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c8d8e8&langs_count=6)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rushilpatel50&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ff6b35&area=true&area_color=00d4ff)
-
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Total%20Commits-25-00d4ff?style=for-the-badge&logo=github&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Repositories-2-ff6b35?style=for-the-badge&logo=github&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Stars%20Earned-2-ffd700?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
 ---
 
-## 🎯 Currently Learning
+### About Me
 
-- [ ] Setting up Splunk/ELK/Wazuh SIEM in home lab
-- [ ] TryHackMe — SOC Level 1 path
-- [x] Web application penetration testing (DVWA)
-- [x] Enterprise network segmentation & IDS/IPS
+- 🎓 Pursuing **Int. B.Sc-M.Sc IT (Cyber Security & Digital Forensics)** at Monark University, Ahmedabad *(Expected 2027)*
+- 🔴 Hands-on experience in **penetration testing**, **SIEM monitoring**, and **enterprise network security**
+- 🛠️ Built lab environments with **Wazuh**, **OpenVAS**, **Burp Suite**, **Metasploit**, **Suricata**, and **pfSense**
+- 📖 Currently preparing for **RHCSA (EX200)** certification
+- 🎯 Seeking internship or entry-level role in **SOC Analysis**, **VAPT**, or **System Administration**
+- 📫 Reach me at **rushilpatel9595@gmail.com**
 
 ---
 
-## 📫 Contact
+### 🔧 Skills & Tools
 
-- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://www.linkedin.com/in/rushil-patel-cs/)
-- 📧 Email: rushilpatel0608@gmail.com
-- 🌐 Portfolio: Coming soon
+**Cyber Security**
 
-<!-- Footer -->
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-CC0000?style=flat-square&logoColor=white)
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-CC0000?style=flat-square&logoColor=white)
+![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-CC0000?style=flat-square&logoColor=white)
+![Security Monitoring](https://img.shields.io/badge/Security_Monitoring-CC0000?style=flat-square&logoColor=white)
+![Incident Response](https://img.shields.io/badge/Incident_Response-CC0000?style=flat-square&logoColor=white)
+![Log Analysis](https://img.shields.io/badge/Log_Analysis-CC0000?style=flat-square&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-CC0000?style=flat-square&logoColor=white)
+![Asset Management](https://img.shields.io/badge/Asset_Management-CC0000?style=flat-square&logoColor=white)
+
+**Security Tools**
+
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-00897B?style=flat-square&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00427E?style=flat-square&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=flat-square&logo=owasp&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-EF7B2D?style=flat-square&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-4B0082?style=flat-square&logoColor=white)
+![GLPI](https://img.shields.io/badge/GLPI-007FAD?style=flat-square&logoColor=white)
+
+**Platforms & Virtualization**
+
+![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windowsserver&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+
+**Networking & System Administration**
+
+![TCP/IP](https://img.shields.io/badge/TCP/IP-00427E?style=flat-square&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS_Management-00427E?style=flat-square&logoColor=white)
+![DHCP](https://img.shields.io/badge/DHCP_Management-00427E?style=flat-square&logoColor=white)
+![VLANs](https://img.shields.io/badge/VLANs-00427E?style=flat-square&logoColor=white)
+![Routing & Switching](https://img.shields.io/badge/Routing_%26_Switching-00427E?style=flat-square&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Linux Admin](https://img.shields.io/badge/Linux_Administration-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows Admin](https://img.shields.io/badge/Windows_Administration-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+---
+
+### 📂 Featured Projects
+
+**🔴 [Web Application Penetration Testing Lab](https://github.com/Rushilpatel50/web-app-penetration-testing-lab)**
+> Performed vulnerability assessments on DVWA and Metasploitable 2 — identifying and documenting SQL Injection, XSS, and authentication flaws using Burp Suite, SQLMap, and OWASP ZAP. Delivered a structured pentest report with CVSS v3.1 scoring.
+
+**🏗️ [Secure Enterprise Network Design & Monitoring](https://github.com/Rushilpatel50/enterprise-network-security-lab)**
+> Designed and secured a virtual enterprise network using VLAN segmentation, pfSense firewall policies, and Suricata IDS/IPS — with full network traffic monitoring and attack simulation.
+
+**🛡️ Proactive IT Asset Management & Security Monitoring**
+> Built an enterprise-inspired security platform integrating GLPI (asset management), OpenVAS (vulnerability assessment), Wazuh (SIEM), and threat intelligence workflows — deployed across multiple VMs.
+
+---
+
+### 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0d1117&height=80&section=footer" width="100%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rushilpatel50&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rushilpatel50&theme=github-dark-blue&hide_border=true&background=0D1117" width="48%"/>
+
+</div>
+
+---
+
+### 🏅 Certifications
+
+| Certification | Status |
+|---|---|
+| Red Hat Certified System Administrator (RHCSA EX200) | `In Progress` |
+| CCC — Course on Computer Concepts | `Completed · 2022` |
+
+---
+
+### 🤝 Connect With Me
+
+<a href="https://linkedin.com/in/rushil-patel-cs">
+  <img src="https://img.shields.io/badge/LinkedIn-rushil--patel--cs-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:rushilpatel9595@gmail.com">
+  <img src="https://img.shields.io/badge/Email-rushilpatel9595@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Rushilpatel50">
+  <img src="https://img.shields.io/badge/GitHub-Rushilpatel50-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+---
+
+<div align="center">
+  <sub>Int. B.Sc-M.Sc IT · Cyber Security & Digital Forensics · Monark University · Ahmedabad, India</sub>
 </div>
