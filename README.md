@@ -21,17 +21,6 @@
 
 ### 🔧 Skills & Tools
 
-**Cyber Security**
-
-![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-0a3d4d?style=flat-square&logoColor=white)
-![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-0a3d4d?style=flat-square&logoColor=white)
-![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-0a3d4d?style=flat-square&logoColor=white)
-![Security Monitoring](https://img.shields.io/badge/Security_Monitoring-0a3d4d?style=flat-square&logoColor=white)
-![Incident Response](https://img.shields.io/badge/Incident_Response-0a3d4d?style=flat-square&logoColor=white)
-![Log Analysis](https://img.shields.io/badge/Log_Analysis-0a3d4d?style=flat-square&logoColor=white)
-![Network Security](https://img.shields.io/badge/Network_Security-0a3d4d?style=flat-square&logoColor=white)
-![Asset Management](https://img.shields.io/badge/Asset_Management-0a3d4d?style=flat-square&logoColor=white)
-
 **Security Tools**
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white)
